@@ -5,6 +5,7 @@ const App = () => {
   return (
     <>
       <Navbar />
+      <h1 className="text-3xl font-bold underline bg-amber-100">Hello world!</h1>
       <img
         src="/favicon.svg"
         alt="favicon test"

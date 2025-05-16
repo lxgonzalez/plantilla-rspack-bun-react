@@ -9,8 +9,12 @@
     "preview": "rsbuild preview"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.1.7",
+    "postcss": "^8.5.3",
+    "postcss-loader": "^8.1.1",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.7"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
